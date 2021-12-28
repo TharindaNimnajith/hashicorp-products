@@ -1,1 +1,1 @@
-# harshicorp-products
+# hashicorp-products
